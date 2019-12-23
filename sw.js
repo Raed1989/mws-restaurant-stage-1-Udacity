@@ -8,6 +8,7 @@ self.addEventListener('install', function(e) {
        '/',
        'index.html',
        'restaurant.html',
+       'icons/icons/favicon.ico',
        '/css/styles.css',
        '/js/main.js',
        '/js/dbhelper.js',
